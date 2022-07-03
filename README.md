@@ -14,8 +14,8 @@ Bruteforce attack, For educational purpose only
 ## Run commands one by one
 For Termux and Window User
 ```
->> git clone https://github.com/itxcyberking/Facebook-BruteForce
->> cd Facebook-BruteForce
+>> git clone https://github.com/HeckylFX/FCBOOM
+>> cd FCBOOM
 >> python3 -m pip install requests bs4
 >> python3 -m pip install mechanize
 >> python3 fb.py or python fb2.py
